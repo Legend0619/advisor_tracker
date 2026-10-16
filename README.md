@@ -63,10 +63,13 @@ I did the design and decision-making. **Claude Code** (an AI coding agent in VS 
 
 **What AI did:** wrote most of the code (importer, API, React screens) and the 6 tests from my design, and proposed the first scoring weights and check-in rhythm (30/45/90 days).
 
-**What I reviewed, and what changed as a result**
-- **A hard deadline was ranked too low.** A FAFSA deadline 10 days away ranked 18th. Deadlines in notes are now read as real dates, and the student ranks 8th.
-- **The briefing showed fragments with no context**, such as "No reply yet.". It now shows the whole note.
-- **Email was offered for a phone-only student.** The address is now crossed out with a warning.
-- **The wording didn't match the dataset README.** The import messages and this README were brought into line with it.
+**Where I stepped in**
+
+When I walked through the app, I found four problems. The code ran without errors, but each one would have misled an advisor:
+
+- **A student with an urgent deadline was buried.** Camila Vargas has a FAFSA form due Oct 15, ten days away, but she was 18th on the list. The app didn't understand dates written inside notes. It now reads phrases like "by Oct 15" as real deadlines, and she ranks 8th.
+- **The briefing quoted notes out of context.** It showed lines like "No reply yet." without saying what the student hadn't replied to. It now shows the whole note.
+- **The app made it easy to ignore a student's request.** Jordan Whitfield asked to be contacted by phone only, because his email goes to a shared family account. His page still had a clickable email link. The address is now crossed out, with a "don't email" warning.
+- **The app's descriptions of the data didn't match the official dataset README.** That README arrived part-way through. It says dates should be `YYYY-MM-DD` and that the advising office sets the risk flag. I updated the import messages and this README to match.
 
 **What still needs a human:** the weights and check-in rhythm are a first guess to confirm with advisors. Finding SSNs and sensitive notes relies on keyword matching, so advisors can also mark a note sensitive by hand.
