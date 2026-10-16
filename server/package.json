@@ -1,0 +1,15 @@
+{
+  "name": "advisor-tracker-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "reset-db": "node src/resetDb.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,51 @@
+student_id,first_name,last_name,email,major,class_year,credits_earned,gpa,advisor,last_contact_date,risk_flag
+S1001,Maya,Patel,maya.patel@example.edu,Biology,Sophomore,48,3.62,Okafor,2026-09-18,Low
+S1002,Jordan,Whitfield,jordan.whitfield@example.edu,Business Administration,Junior,74,2.15,Reyes,2026-06-02,High
+S1003,Sofia,Hernandez,sofia.hernandez@example.edu,Pre-Nursing,Sophomore,39,3.10,Lindqvist,"Aug 25, 2026",Medium
+S1004,Ethan,Nakamura,ethan.nakamura@example.edu,Computer Science,Senior,101,3.41,Okafor,2026-09-30,Low
+S1005,Aaliyah,Brooks,aaliyah.brooks@example.edu,Psychology,Freshman,12,2.80,Reyes,2026-09-10,Medium
+S1006,Tomas,Rivera,tomas.rivera@example.edu,Undeclared,Freshman,15,3.05,Lindqvist,,Medium
+S1007,Priya,Raman,priya.raman@example.edu,Electrical Engineering,Junior,66,3.85,Okafor,2026-09-22,Low
+S1008,Marcus,Johnson,marcus.johnson@example.edu,Sociology,Senior,95,1.98,Reyes,2026-05-08,High
+S1009,Chloe,Dubois,chloe.dubois@example.edu,Journalism,Sophomore,52,3.28,Lindqvist,2026/09/02,Low
+S1010,Omar,Haddad,omar.haddad@example.edu,Mechanical Engineering,Sophomore,41,2.45,Okafor,2026-07-15,Medium
+S1011,Lily,Chen,lily.chen@example.edu,Mathematics,Junior,70,3.92,Reyes,2026-04-28,Low
+S1012,Dylan,O'Connor,dylan.oconnor@example.edu,Business Administration,Senior,108,2.60,Lindqvist,2026-09-26,Medium
+S1013,Fatima,Al-Sayed,fatima.al-sayed@example.edu,Public Health,Freshman,14,3.50,Reyes,2026-09-08,Low
+S1014,Noah,Kim,noah.kim@example.edu,Computer Science,Sophomore,44,2.30,Okafor,2026-05-20,High
+S1015,Isabella,Moretti,isabella.moretti@example.edu,Art History,Junior,68,3.15,Lindqvist,30-Aug-2026,Low
+S1016,Kwame,Mensah,kwame.mensah@example.edu,Economics,Junior,63,3.00,Reyes,2026-06-18,Medium
+S1017,Hannah,Berg,hannah.berg@example.edu,Education,Senior,112,3.70,Okafor,2026-09-15,Low
+S1018,Mateo,Alvarez,mateo.alvarez@example.edu,Chemistry,Sophomore,36,2.10,Lindqvist,,High
+S1019,Zoe,Washington,zoe.washington@example.edu,English,Freshman,16,3.40,Reyes,2026-09-12,Low
+S1020,Ravi,Gupta,ravi.gupta@example.edu,Information Science,Junior,72,3.55,Okafor,2026-08-20,Low
+S1021,Grace,Okonkwo,grace.okonkwo@example.edu,Biology,Senior,98,2.75,Lindqvist,"Sep 05, 2026",Medium
+S1022,Liam,Fitzgerald,liam.fitzgerald@example.edu,Undeclared,Sophomore,33,2.55,Reyes,2026-02-11,High
+S1023,Sakura,Tanaka,sakura.tanaka@example.edu,Linguistics,Junior,61,3.68,Okafor,2026-09-29,Low
+S1024,Andre,Williams,andre.williams@example.edu,Criminal Justice,Sophomore,45,2.65,Reyes,2026-08-12,Medium
+S1025,Elena,Petrova,elena.petrova@example.edu,Physics,Senior,104,3.78,Lindqvist,2026-09-01,Low
+S1026,Carlos,Mendoza,carlos.mendoza@example.edu,Civil Engineering,Junior,69,3.20,Okafor,2026-09-24,Low
+S1027,Brianna,Foster,brianna.foster@example.edu,Health Sciences,Sophomore,47,2.90,Reyes,"Aug 18, 2026",Medium
+S1028,Henry,Zhao,henry.zhao@example.edu,Data Science,Freshman,13,3.75,Lindqvist,2026-09-14,Low
+S1029,Amara,Nwosu,amara.nwosu@example.edu,Political Science,Senior,100,3.35,Okafor,2026-09-09,Low
+S1030,Tyler,Brennan,tyler.brennan@example.edu,Kinesiology,Junior,64,2.20,Reyes,2026-07-28,High
+S1031,Yuki,Sato,yuki.sato@example.edu,Studio Art,Sophomore,50,3.45,Lindqvist,2026-09-03,Low
+S1032,Gabriel,Santos,gabriel.santos@example.edu,Accounting,Senior,106,3.05,Okafor,2026-08-27,Low
+S1033,Natalie,Cho,natalie.cho@example.edu,Neuroscience,Junior,71,3.88,Reyes,2026/05/30,Low
+S1034,Isaiah,Thompson,isaiah.thompson@example.edu,Environmental Science,Freshman,11,2.35,Lindqvist,2026-09-16,High
+S1035,Leila,Karimi,leila.karimi@example.edu,Computer Engineering,Sophomore,46,3.30,Okafor,2026-09-21,Low
+S1036,Patrick,Sullivan,patrick.sullivan@example.edu,Marketing,Senior,99,2.45,Reyes,2026-06-25,Medium
+S1037,Camila,Vargas,camila.vargas@example.edu,Sociology,Junior,62,2.50,Lindqvist,2026-09-11,High
+S1038,Peter,Novak,peter.novak@example.edu,History,Sophomore,42,3.18,Okafor,2026-08-05,Low
+S1039,Imani,Jackson,imani.jackson@example.edu,Social Work,Junior,66,3.60,Reyes,19-Sep-2026,Low
+S1040,Sebastian,Wright,sebastian.wright@example.edu,Finance,Sophomore,40,2.70,Lindqvist,N/A,Medium
+S1041,Ananya,Iyer,ananya.iyer@example.edu,Biochemistry,Senior,102,3.82,Okafor,2026-09-27,Low
+S1042,Wyatt,Larson,wyatt.larson@example.edu,Agricultural Education,Junior,60,2.95,Reyes,2026-07-09,Medium
+S1043,Nia,Campbell,nia.campbell@example.edu,Communications,Freshman,15,3.10,Lindqvist,2026-09-17,Low
+S1044,Victor,Delgado,victor.delgado@example.edu,Construction Management,Senior,94,2.20,Okafor,2026-06-11,High
+S1045,Hailey,Stewart,hailey.stewart@example.edu,Elementary Education,Sophomore,49,3.55,Reyes,"Sep 06, 2026",Low
+S1046,Mohammed,Rahman,mohammed.rahman@example.edu,Chemical Engineering,Junior,67,3.25,Lindqvist,2026-08-22,Low
+S1047,Olivia,Grant,olivia.grant@example.edu,Theatre Arts,Freshman,13,2.15,Okafor,2026-09-23,High
+S1048,Jin,Park,jin.park@example.edu,Statistics,Junior,65,3.70,Reyes,2026-04-15,Low
+S1049,Rosa,Alvarado,rosa.alvarado@example.edu,Spanish,Senior,97,3.00,Lindqvist,2026-09-28,Low
+S1050,Gracie,Okonkwo,gracie.okonkwo@example.edu,Biology,Senior,96,2.75,Okafor,2026-08-14,Medium

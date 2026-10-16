@@ -1,0 +1,58 @@
+note_id,student_id,contact_date,contact_type,advisor,note_text
+N001,S1002,2026-01-22,Phone,Reyes,Student asked that we contact him by phone only; email goes to a shared family account. Best reached after 5 pm.
+N002,S1008,2026-01-29,Email,Reyes,Missed registration appointment; rescheduled.
+N003,S1022,2026-02-11,In person,Reyes,Has not declared a major and is behind on credits. Sent major exploration resources.
+N004,S1004,2026-02-20,Email,Okafor,Received an internship offer; asked about earning credit for it.
+N005,S1016,"Mar 05, 2026",In person,Reyes,Considering study abroad but concerned about cost.
+N006,S1002,2026-03-14,In person,Reyes,Struggling in Accounting II. Referred to tutoring center.
+N007,S1037,2026-03-19,In person,Lindqvist,Midterm stress. Discussed time management and campus resources.
+N008,S1044,2026-03-30,Zoom,Okafor,Behind on capstone prerequisites.
+N009,S1030,2026-04-02,In person,Reyes,Student athlete; missed classes for travel. Instructors raised concerns.
+N010,S1001,"Apr 10, 2026",Zoom,Okafor,Spring registration complete. On track for pre-health prerequisites.
+N011,S1048,2026-04-15,Email,Reyes,Applying for a summer research program.
+N012,S1011,2026-04-28,In person,Reyes,Interested in graduate school. Discussed GRE timeline and research experience.
+N013,S1008,2026-05-08,Phone,Reyes,Cumulative GPA below 2.0; at risk of not graduating on time. Plan: repeat two courses this fall.
+N014,S1021,2026-05-12,Phone,Lindqvist,Considering a gap year after graduation.
+N015,S1014,2026/05/20,Email,Okafor,Dropped Data Structures mid-term; behind on the CS sequence. No response to follow-up.
+N016,S1033,2026-05-30,Email,Reyes,Secured a lab position for the summer.
+N017,S1002,2026-06-02,Email,Reyes,Placed on academic warning after spring term. Discussed tutoring options; student to reply with availability. No reply yet.
+N018,S1044,2026-06-11,Phone,Okafor,Left voicemail. No response.
+N019,S1016,2026-06-18,Email,Reyes,Financial aid appeal pending; may reduce credit load next term.
+N020,S1036,25-Jun-2026,Email,Reyes,Missing two general education requirements. Plan outlined.
+N021,S1042,2026-07-09,Phone,Reyes,Transfer from community college; credits still being evaluated.
+N022,S1010,2026-07-15,Zoom,Okafor,Did not pass Calculus II on first attempt; retaking this fall. Considering switching majors.
+N023,S1030,2026-07-28,Email,Reyes,Possible academic probation. Awaiting reply about tutoring.
+N024,S1038,2026-08-05,Email,Okafor,Interested in secondary education certification.
+N025,S1024,"Aug 12, 2026",Phone,Reyes,Works full-time. Asked about online and evening sections.
+N026,S1050,2026-08-14,In person,Okafor,Asked about timing for MCAT retake. Mentioned she still needs organic chemistry lab to graduate.
+N027,S1027,2026-08-18,Phone,Reyes,Switching from Pre-Nursing. Needs advising on health science pathways.
+N028,S1020,2026-08-20,Email,Okafor,Asked about adding an AI/ML certificate. Sent requirements.
+N029,S1046,2026-08-22,Zoom,Lindqvist,Considering a co-op. Asked about timeline.
+N030,S1003,"Aug 25, 2026",Phone,Lindqvist,Worried about the GPA cutoff for the nursing program. Considering retaking Chemistry.
+N031,S1032,2026-08-27,Phone,Okafor,Planning for CPA exam. Needs information on the 150-credit pathway.
+N032,S1015,2026-08-30,Zoom,Lindqvist,Declared a minor in Italian. Planning a museum internship for next summer.
+N033,S1025,2026-09-01,In person,Lindqvist,On track for May graduation. Applying to PhD programs.
+N034,S1009,2026-09-02,Email,Lindqvist,Asked about study abroad next spring. Sent deadlines and program list.
+N035,S1031,2026/09/03,Email,Lindqvist,Portfolio review scheduled for mid-October.
+N036,S1021,2026-09-05,Zoom,Lindqvist,Planning to retake the MCAT. Still needs organic chemistry lab to graduate.
+N037,S1045,2026-09-06,Email,Reyes,Field placement paperwork submitted.
+N038,S1013,2026-09-08,In person,Reyes,Strong start. Joined the Public Health Club.
+N039,S1029,2026-09-09,Zoom,Okafor,Preparing law school applications. Needs recommendation letters; suggested two professors.
+N040,S1005,10-Sep-2026,In person,Reyes,First-semester adjustment. Commutes 45 minutes and works 20 hrs/week. Discussed reducing work hours.
+N041,S1037,2026-09-11,In person,Lindqvist,Student became emotional and shared she has been seeing a campus counselor for anxiety; asked that this stay private. Needs help with financial aid verification form; she gave her SSN 000-12-3456 so I could fill it out. Follow up on missing FAFSA verification by Oct 15.
+N042,S1019,2026-09-12,In person,Reyes,Wants to explore a creative writing minor. Shared course list.
+N043,S1028,2026-09-14,In person,Lindqvist,Placed into advanced math. Interested in undergraduate research.
+N044,S1017,2026-09-15,Phone,Okafor,Student teaching placement confirmed for spring.
+N045,S1034,09/16/2026,In person,Lindqvist,Struggling in Chem 151 early in term. Referred to supplemental instruction.
+N046,S1043,2026-09-17,In person,Lindqvist,Settling in well. Interested in campus radio.
+N047,S1001,2026-09-18,In person,Okafor,Confirmed fall schedule. Interested in undergraduate research with Dr. Alvarez; will email her this week.
+N048,S1039,2026-09-19,In person,Reyes,Practicum placement confirmed.
+N049,S1035,2026-09-21,Zoom,Okafor,Interested in a leadership role in the robotics club.
+N050,S1007,"Sep 22, 2026",In person,Okafor,Applying for honors thesis. Needs a faculty sponsor; suggested two names.
+N051,S1047,2026-09-23,In person,Okafor,Overwhelmed by workload alongside rehearsals. Discussed reducing credit load; withdrawal deadline is approaching.
+N052,S1026,2026-09-24,Email,Okafor,Confirmed co-op for spring semester. Reviewing impact on credit load.
+N053,S1012,2026-09-26,In person,Lindqvist,Needs 12 credits to graduate in December; schedule is tight. Discussing an overload approval.
+N054,S1041,2026-09-27,Email,Okafor,Thesis defense scheduled. Graduating in December.
+N055,S1049,2026/09/28,Email,Lindqvist,Graduation application submitted.
+N056,S1023,2026-09-29,Email,Okafor,Thanked advisor for help with the transfer credit evaluation.
+N057,S1004,2026-09-30,Zoom,Okafor,Graduation audit: needs one upper-division elective. Plans to take CSC 460.
